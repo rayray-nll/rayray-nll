@@ -1,6 +1,6 @@
-Hi there! 👋 I'm Rayyaan Lartey
+Hi there! 👋 I'm Rayyaan
 
-I'm an aspiring AI Engineer passionate about creating intelligent systems that solve real-world problems. 
+I'm an aspiring Generative AI Developer passionate about creating intelligent systems that solve real-world problems. 
 I recently completed my BSc. in Computer Engineering from KNUST, Ghana, where I implemented an AI-powered university enquiry chatbot solution for KNUST freshmen during my final year. 
 Now, I'm delving into deep learning, generative AI, and data science, aiming to build applications that make a meaningful impact.
 
