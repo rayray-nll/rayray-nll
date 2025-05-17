@@ -13,11 +13,6 @@ like OpenAI GPT and LLaMA.
 
 3. Tools for AI Development: Experienced with LangChain, LlamaIndex, and FastAPI, I’m continuously expanding my toolkit to make my AI applications efficient and scalable.
 
-💼 Professional Projects
-1. Generative AI App Development: Currently taking courses on generative AI, machine learning, and MLOps, working with LangChain, LlamaIndex, and Gemini AI to build practical, scalable applications.
-2. AI in Helpdesk Automation: Working on designing an AI-powered virtual assistant for banks to handle password resets, account unlocking, and automated ticket generation with OTP security. 
-3. Infrastructure Monitoring: Completely setup Zabbix to monitor web servers, databases, and ATMs for enhanced efficiency in enterprise environments levearging docker-compose.
-
 🎓 Education & Courses
 BSc. in Computer Engineering – KNUST, Ghana (Graduated November 2023)
 Ongoing Certifications:
